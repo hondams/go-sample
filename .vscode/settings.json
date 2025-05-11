@@ -1,0 +1,15 @@
+{
+    "files.associations": { "*.json": "jsonc" },
+    "gopls": {
+        "formatting.gofumpt": true,
+        "ui.semanticTokens": true
+    },
+    "go.delveConfig": {
+        "debugAdapter": "dlv-dap",
+        "showGlobalVariables": true,
+    },
+    "[go]": {
+        "editor.defaultFormatter": "golang.go",
+        "editor.formatOnSave": false,
+    },
+}
