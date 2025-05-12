@@ -11,5 +11,6 @@
     "[go]": {
         "editor.defaultFormatter": "golang.go",
         "editor.formatOnSave": false,
+        "editor.insertSpaces": false,
     },
 }
